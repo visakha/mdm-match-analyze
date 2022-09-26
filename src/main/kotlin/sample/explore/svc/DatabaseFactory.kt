@@ -8,12 +8,12 @@ import javax.sql.DataSource
 
 object DatabaseFactory {
     private const val url = "jdbc:sqlserver://"
-    private const val serverName = "Mazmdmdev02"
+    private const val serverName = "M"
     private const val portNumber = 1433
     private const val databaseName = "CMX_ORS"
 
-    private const val userName = "CMX_ORS"
-    private const val password = "!!cmx!!"
+    private const val userName = "C"
+    private const val password = ""
 
     private const val selectMethod = "cursor"
 
